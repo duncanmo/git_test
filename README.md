@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+Hello, just put the code in the repo.
